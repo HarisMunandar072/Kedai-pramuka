@@ -1,15 +1,15 @@
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
-.vscode/
+.vscode/Tukek072
 #Cache folder
-.alcache/
+.alcache/Tukek072
 #Symbols folder
-.alpackages/
+.alpackages/Tukek072
 #Snapshots folder
-.snapshots/
+.snapshots/Tukek072
 #Testing Output folder
-.output/
+.output/Tukek072
 #Extension App-file
 *.app
 #Rapid Application Development File
